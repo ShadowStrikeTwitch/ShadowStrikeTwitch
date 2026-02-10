@@ -1,8 +1,9 @@
 # 💫 Über mich:
-🔭 Derzeit arbeite ich in meiner Freizeit an einem Minecraft-Server<br>
+🔭 Derzeit arbeite ich in meiner Freizeit an meinem ProxMox-Server<br>
+🔭 und kleinen Websiten sowie einem Minecraft-Server.<br>
 👯 Ich suche eine Kooperation bei Youtubern/Streamern<br>
-🤝 Ich suche Hilfe für Java Plugins<br>
-🌱 Ich lerne gerade C und verbessere mich in Java<br>
+🤝 Ich suche Hilfe für Java Plugins für Minecraft<br>
+🌱 Ich mach gerade meinen B.Sc.<br>
 ⚡ Kleiner Funfact, Wasser ist nass
 
 
