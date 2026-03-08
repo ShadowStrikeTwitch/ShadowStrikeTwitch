@@ -2,10 +2,8 @@
 🔭 Derzeit arbeite ich in meiner Freizeit an meinem ProxMox-Server<br>
 🔭 und kleinen Websiten sowie einem Minecraft-Server.<br>
 👯 Ich suche eine Kooperation bei Youtubern/Streamern<br>
-🤝 Ich suche Hilfe für Java Plugins für Minecraft<br>
+🤝 Ich suche Unterstützung für Java Plugins für Minecraft<br>
 🌱 Ich mach gerade meinen B.Sc.<br>
-⚡ Kleiner Funfact, Wasser ist nass
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/VtmfxTqurS) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Leon_shl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-sahl-977995334) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ShadowStrikeYT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@vynora.de) 
